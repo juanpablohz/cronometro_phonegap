@@ -1,7 +1,7 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="org.mooc.tempMV" version="1.0.0">
-  <name>TemporizadorV</name>
+  <name>Temporizador JuanHZ</name>
   <description>Segundero de Cocina</description>
-  <author href="http://www.mywonderland.es" email="juanpablo.hx02@gmail.com">JuanHZ</author>
+  <author href="http://www.mywonderland.es" email="juanpablo.hz02@gmail.com">JuanHZ</author>
   <content src="index.html"/>
   
   <preference name="permissions" value="none"/>
